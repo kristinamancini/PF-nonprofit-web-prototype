@@ -1,1 +1,1 @@
-# PF-nonprofit-web-prototype
+# Piatigorsky Foundation Website Design Prototype
